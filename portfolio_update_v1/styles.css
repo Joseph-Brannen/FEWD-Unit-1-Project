@@ -57,7 +57,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/atlanta.jpg') no-repeat top center ;
+  background: url('images/atlantav3.jpg') no-repeat center;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -67,8 +67,8 @@ header {
 }
 header .profile-image {
   margin-top: 50px;
-  width: 250px;
-  height: 250px;
+  width: 150px;
+  height: 150px;
   border-radius: 50%;
   border: 3px solid white;
   transition: all .5s;
